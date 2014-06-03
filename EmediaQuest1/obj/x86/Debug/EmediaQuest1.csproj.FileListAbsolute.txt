@@ -1,0 +1,19 @@
+c:\users\kelevra\documents\visual studio 2010\Projects\EmediaQuest1\EmediaQuest1\bin\Debug\EmediaQuest1.exe
+c:\users\kelevra\documents\visual studio 2010\Projects\EmediaQuest1\EmediaQuest1\bin\Debug\EmediaQuest1.pdb
+c:\users\kelevra\documents\visual studio 2010\Projects\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.MainForm.resources
+c:\users\kelevra\documents\visual studio 2010\Projects\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.Properties.Resources.resources
+c:\users\kelevra\documents\visual studio 2010\Projects\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.csproj.GenerateResource.Cache
+c:\users\kelevra\documents\visual studio 2010\Projects\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.exe
+c:\users\kelevra\documents\visual studio 2010\Projects\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.pdb
+c:\users\kelevra\documents\visual studio 2010\Projects\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.JpegForm.resources
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.exe
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.pdb
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\bin\Debug\EmediaQuest1.exe
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\bin\Debug\EmediaQuest1.pdb
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.JpegForm.resources
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.MainForm.resources
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.Properties.Resources.resources
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\politechnika\S7\e-media\p1\EmediaQuest1\EmediaQuest1\obj\x86\Debug\EmediaQuest1.FormWAVE.resources
